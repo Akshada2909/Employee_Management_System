@@ -1,0 +1,11 @@
+EMPLOYEE SALARY REPORT
+
+Total Employees: 4
+Total Salary: 360000
+Average Salary: 90000
+
+Highest Salary:
+David Brown - ₹105000
+
+Lowest Salary:
+Carol Davis - ₹75000
